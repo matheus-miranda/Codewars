@@ -8,3 +8,5 @@ Coding challenges
 - <a href="https://github.com/matheus-miranda/Codewars/tree/master/Mumbling">Mumbling</a> - https://www.codewars.com/kata/5667e8f4e3f572a8f2000039
 
 - <a href="https://github.com/matheus-miranda/Codewars/tree/master/Bouncing%20Balls">Bouncing Balls</a> - https://www.codewars.com/kata/5544c7a5cb454edb3c000047
+
+- <a href="https://github.com/matheus-miranda/Codewars/tree/master/Printer%20Errors">Printer Errors</a> - https://www.codewars.com/kata/56541980fa08ab47a0000040
