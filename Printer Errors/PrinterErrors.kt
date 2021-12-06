@@ -1,4 +1,1 @@
-fun printerError(s: String): String {
-    val malfunctionCount = s.count { it in 'n'..'z' }
-    return "$malfunctionCount/${s.length}"
-}
+fun printerError(s: String): String = "${s.count { it in 'n'..'z' }}/${s.length}"
