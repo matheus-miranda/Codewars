@@ -10,3 +10,5 @@ Coding challenges
 - <a href="https://github.com/matheus-miranda/Codewars/tree/master/Bouncing%20Balls">Bouncing Balls</a> - https://www.codewars.com/kata/5544c7a5cb454edb3c000047
 
 - <a href="https://github.com/matheus-miranda/Codewars/tree/master/Printer%20Errors">Printer Errors</a> - https://www.codewars.com/kata/56541980fa08ab47a0000040
+
+- <a href="https://github.com/matheus-miranda/Codewars/tree/master/Multiples%20of%20Three%20or%20Five">Multiples of 3 or 5</a> - https://www.codewars.com/kata/514b92a657cdc65150000006
