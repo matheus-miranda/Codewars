@@ -1,11 +1,1 @@
-fun spinWords(sentence: String): String {
-    val sb = StringBuilder()
-    sentence.split(" ").forEach {
-        if (it.length >= 5) {
-            sb.append(it.reversed()).append(" ")
-        } else {
-            sb.append(it).append(" ")
-        }
-    }
-    return sb.toString().dropLast(1)
-}
+fun spinWords(sentence: String): String = sentence.split(" ").joinToString(" ") { if (it.length > 4) it.reversed() else it }
