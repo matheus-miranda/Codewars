@@ -16,3 +16,5 @@ Coding challenges
 - <a href="https://github.com/matheus-miranda/Codewars/tree/master/Stop%20Spinning%20my%20Words">Stop gninnipS My sdroW!</a> - https://www.codewars.com/kata/5264d2b162488dc400000001
 
 - [Summation](https://github.com/matheus-miranda/Codewars/tree/master/Summation) - https://www.codewars.com/kata/55d24f55d7dd296eb9000030
+
+- [Roman Numerals Encoder](https://github.com/matheus-miranda/Codewars/tree/master/Roman%20Numerals%20Encoder) - https://www.codewars.com/kata/51b62bf6a9c58071c600001b
